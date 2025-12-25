@@ -1,4 +1,18 @@
-## Hi there 👋
+💫 About Me:
+I am learning python
+All my projects are available on GitHub
+Ask me about programming
+
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/shahanur Alom Sarowar) email
+
+💻 Tech Stack:
+Python Canva NumPy GitHub GitHub Actions
+
+📊 GitHub Stats:
+
+
+
 
 <!--
 **shahanur2004/shahanur2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
